@@ -1,0 +1,10 @@
+C:\Users\David Melcher\source\repos\CodeGenDslParser\CodeGenDslParser\bin\Debug\netcoreapp2.1\CodeGenDslParser.deps.json
+C:\Users\David Melcher\source\repos\CodeGenDslParser\CodeGenDslParser\bin\Debug\netcoreapp2.1\CodeGenDslParser.runtimeconfig.json
+C:\Users\David Melcher\source\repos\CodeGenDslParser\CodeGenDslParser\bin\Debug\netcoreapp2.1\CodeGenDslParser.runtimeconfig.dev.json
+C:\Users\David Melcher\source\repos\CodeGenDslParser\CodeGenDslParser\bin\Debug\netcoreapp2.1\CodeGenDslParser.dll
+C:\Users\David Melcher\source\repos\CodeGenDslParser\CodeGenDslParser\obj\Debug\netcoreapp2.1\CodeGenDslParser.csproj.CoreCompileInputs.cache
+C:\Users\David Melcher\source\repos\CodeGenDslParser\CodeGenDslParser\obj\Debug\netcoreapp2.1\CodeGenDslParser.AssemblyInfoInputs.cache
+C:\Users\David Melcher\source\repos\CodeGenDslParser\CodeGenDslParser\obj\Debug\netcoreapp2.1\CodeGenDslParser.AssemblyInfo.cs
+C:\Users\David Melcher\source\repos\CodeGenDslParser\CodeGenDslParser\bin\Debug\netcoreapp2.1\CodeGenDslParser.pdb
+C:\Users\David Melcher\source\repos\CodeGenDslParser\CodeGenDslParser\obj\Debug\netcoreapp2.1\CodeGenDslParser.dll
+C:\Users\David Melcher\source\repos\CodeGenDslParser\CodeGenDslParser\obj\Debug\netcoreapp2.1\CodeGenDslParser.pdb
